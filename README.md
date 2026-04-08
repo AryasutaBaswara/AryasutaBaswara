@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m looking for help with<br>🌱 I’m currentl👋 Hi! I'm a 5th-semester Informatics student and a passionate **Fullstack Developer**.  <br>I enjoy building clean, scalable, and functional web applications — mostly using the **MERN Stack**.<br><br>🌱 Currently improving my skills in backend development, database design, and UI/UX for responsive user experiences.  <br>🚀 Soon, I will be joining **Kalbe** as an intern to gain real-world experience and contribute to impactful projects.<br><br>💡 Interests:<br>- Fullstack Web Development (React, Node.js, Express, MongoDB)<br>- REST API & system integration<br>- Software engineering best practices<br><br>🎮 Outside of tech, I'm a gamer and love exploring new tools, frameworks, and productivity setups.<br>y learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Nothing about me bro, go away.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baswaraarya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryasutabaswara) 
